@@ -1,0 +1,25 @@
+{
+  "name": "generator-viewfinder",
+  "version": "0.0.0",
+  "description": "Yeoman generator for Viewfinder, a part of the AVC trifecta of Yeoman generators designed to create isomorphic JavaScript progressive apps and Web sites.",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temoto-kun/generator-viewfinder.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "views",
+    "front-end",
+    "progressive-web-apps"
+  ],
+  "author": "Temoto-kun <kiiroifuriku@hotmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Temoto-kun/generator-viewfinder/issues"
+  },
+  "homepage": "https://github.com/Temoto-kun/generator-viewfinder#readme"
+}
